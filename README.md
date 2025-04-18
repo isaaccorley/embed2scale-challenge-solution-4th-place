@@ -11,7 +11,7 @@ This repo contains the code for the 4th place solution to the [Embed2Scale Chall
 - Isaac Corley ([@isaaccorley](https://github.com/isaaccorley)) - Wherobots
 - Burak Ekim ([@burakekim](https://github.com/burakekim)) - University of the Bundeswehr Munich
 - Caleb Robinson ([@calebrob6](https://github.com/calebrob6)) - Microsoft AI for Good Lab
-- Esther Rolf ([@estherrolf]()) - University of Colorado Boulder
+- Esther Rolf ([@estherrolf](https://github.com/calebrob6)) - University of Colorado Boulder
 
 ## Solution
 
