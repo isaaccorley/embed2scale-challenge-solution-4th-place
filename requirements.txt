@@ -1,0 +1,10 @@
+huggingface-hub
+torch
+torchvision
+xarray
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+torchgeo==0.7.0

@@ -1,3 +1,9 @@
+.ruff_cache/
+data/
+checkpoints/
+*.DS_Store
+*.npz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
