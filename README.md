@@ -1,4 +1,4 @@
-# Embed2Scale Challenge 4th Place Solution (Training Free!)
+# Temporal MOSAIKS - Embed2Scale Challenge 4th Place Solution (Training Free!)
 
 <p align="center">
     <img src="./assets/architecture.png" width="800"/><br/>
