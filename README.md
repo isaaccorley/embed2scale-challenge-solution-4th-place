@@ -23,7 +23,7 @@ Our goal for this challenge was to discover a compute-friendly method which can 
 
 3) We then perform mean pooling across the temporal dimension to reduce this to a single vector of shape `(4096)`.
 
-4) To reduce this down to the required 1,204 dimensional vector we use simple PCA dimensionality reduction.
+4) To reduce this down to the required 1,024 dimensional vector we use simple PCA dimensionality reduction.
 
 ## Example Usage
 
